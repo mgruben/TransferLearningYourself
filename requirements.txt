@@ -17,7 +17,7 @@ jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.0
 jupyter-console==5.2.0
-jupyter-core==4.4.0
+jupyter-core>=4.11.2
 Keras==2.1.2
 Markdown==2.6.10
 MarkupSafe==1.0
